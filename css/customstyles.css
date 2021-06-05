@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.aboutlogo {
+  font-size: 0.5rem;
+  padding-bottom: 10px;
+  height: 10px;
+}
+
+.aboutlogo-img {
+    height:  120px;
+}
