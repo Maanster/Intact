@@ -6,6 +6,15 @@
   height: 10px;
 }
 
-.aboutlogo-img {
+.aboutlogo-moving {
+    height:  100px;
+}
+
+.aboutlogo-working {
     height:  120px;
+}
+
+.aboutlogo-employers {
+    padding-top: 20px;
+    height:  125px;
 }
